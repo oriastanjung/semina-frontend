@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Link for Web Apps [Click Here](https://semina-frontend.vercel.app/)
+project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+https://semina-frontend.vercel.app/
 
 ## Getting Started
 
